@@ -1,0 +1,4 @@
+<Frase> ::= \( xyz <N> \) | \( xyz \)
+<N> ::= xyzxyz <N> | xyzxyz
+
+

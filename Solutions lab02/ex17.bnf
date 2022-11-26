@@ -1,0 +1,2 @@
+<Frase> ::= a <N> e
+<N> ::= bcdbcd <N> | bcdbcd

@@ -1,0 +1,9 @@
+<hexadecimais> ::= \[ <num> \]
+<num> ::= 0 x <resto> \  \: \  <num> | 0 x <resto>
+<resto> ::= <choice> <resto> | <choice>
+<choice> ::= [0-9] | <char>
+<char> ::= a | b | c | d | e | f | A | B | C | D | E | F
+
+
+
+

@@ -1,0 +1,5 @@
+<palavra> ::= <sílaba> <sílaba>
+<sílaba> ::= <vogal> <consoante> | <consoante> <vogal>
+<vogal> ::= a | e | i | o | u
+<consoante> ::= b | c | d | f | g | h | j | l | m | n | p | q | r | s | t | v | x | z
+

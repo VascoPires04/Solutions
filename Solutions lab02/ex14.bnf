@@ -1,0 +1,8 @@
+<Nome> ::=  \( <nome> \)
+<nome> ::= <frase> , <nome> | <frase>
+<frase> ::= <CHAR> <frase1>
+<frase1> ::= <CHAR> <frase1> | <char> <frase1> | <CHAR> | <char>
+<CHAR> ::= A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+<char> ::= a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z
+
+

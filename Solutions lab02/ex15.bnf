@@ -1,0 +1,10 @@
+<matricula> ::= <12> | <21>
+<12> ::= <L1> - <N1> - <L1>
+<21> ::= <N1> - <L1> - <N1> | <N1> - <N1> - <L1> | <L1> - <N1> - <N1>
+<L1> ::= <letra> <letra>
+<N1> ::= <numero> <numero>
+<letra> ::= A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+<numero> ::= [0-9]
+
+
+
